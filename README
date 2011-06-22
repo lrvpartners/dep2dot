@@ -1,0 +1,8 @@
+dep2dot -- generate graph of dependencies
+
+This script takes a set of source files and computes dependency relationships.
+
+The goal is to support C/C++ source and header files, a la cinclude2dot, but in
+the future other languages will be supported.
+
+- lrvpartners 
